@@ -5,7 +5,7 @@
     <div class="list-group">
         
             <a class="list-group-item active">
-            <div class="panel-heading">Sites<a class="pull-right btn btn-sm"  href="{{ route('companies.create') }}">Add a New Site</a></div>
+            <div class="panel-heading">SITES<a class="pull-right btn btn-sm"  href="{{ route('companies.create') }}">Add a New Site</a></div>
               <!-- <div class="panel-heading">Companies<a class="pull-right btn btn-primary"  href="/companies/create">Create new Company</a></div>
                 -->
                 <div class="panel-body">
